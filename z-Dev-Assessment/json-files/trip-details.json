@@ -1,0 +1,268 @@
+{
+    "TripDetailsResponse": {
+        "TripDetailsResult": {
+            "Success": "true",
+            "Target": "Test",
+            "TravelItinerary": {
+                "BookingStatus": "Booked",
+                "CrossBorderIndicator": false,
+                "Destination": "STN",
+                "FareType": "WebFare",
+                "IsCommissionable": false,
+                "IsMOFare": false,
+                "ItineraryInfo": {
+                    "CustomerInfos": [
+                        {
+                            "CustomerInfo": {
+                                "PassengerType": "ADT",
+                                "PassengerFirstName": "John",
+                                "PassengerLastName": "Doe",
+                                "PassengerTitle": "Mr",
+                                "ItemRPH": 1,
+                                "eTicketNumber": "AHFYWJ",
+                                "DateOfBirth": "2004-10-30T00:00:00",
+                                "EmailAddress": "john2Doe@gmail.com",
+                                "Gender": null,
+                                "PassengerNationality": "IN",
+                                "PassportNumber": "5467455",
+                                "PhoneNumber": "9847012345",
+                                "PostCode": ""
+                            }
+                        },
+                        {
+                            "CustomerInfo": {
+                                "PassengerType": "ADT",
+                                "PassengerFirstName": "jenny",
+                                "PassengerLastName": "Tylor",
+                                "PassengerTitle": "Mrs",
+                                "ItemRPH": 2,
+                                "eTicketNumber": "AHFYWJ",
+                                "DateOfBirth": "2006-10-30T00:00:00",
+                                "EmailAddress": "john2Doe@gmail.com",
+                                "Gender": null,
+                                "PassengerNationality": "IN",
+                                "PassportNumber": "65168d4",
+                                "PhoneNumber": "9847012345",
+                                "PostCode": ""
+                            }
+                        },
+                        {
+                            "CustomerInfo": {
+                                "PassengerType": "CHD",
+                                "PassengerFirstName": "Jess",
+                                "PassengerLastName": "Doe",
+                                "PassengerTitle": "Miss",
+                                "ItemRPH": 3,
+                                "eTicketNumber": "AHFYWJ",
+                                "DateOfBirth": "2024-10-30T00:00:00",
+                                "EmailAddress": "john2Doe@gmail.com",
+                                "Gender": null,
+                                "PassengerNationality": "IN",
+                                "PassportNumber": "3545355",
+                                "PhoneNumber": "9847012345",
+                                "PostCode": ""
+                            }
+                        },
+                        {
+                            "CustomerInfo": {
+                                "PassengerType": "INF",
+                                "PassengerFirstName": "Tony",
+                                "PassengerLastName": "doe",
+                                "PassengerTitle": "Master",
+                                "ItemRPH": 4,
+                                "eTicketNumber": "AHFYWJ",
+                                "DateOfBirth": "2024-12-30T00:00:00",
+                                "EmailAddress": "john2Doe@gmail.com",
+                                "Gender": null,
+                                "PassengerNationality": "IN",
+                                "PassportNumber": "946535",
+                                "PhoneNumber": "9847012345",
+                                "PostCode": ""
+                            }
+                        }
+                    ],
+                    "ItineraryPricing": {
+                        "EquiFare": {
+                            "Amount": "91.21",
+                            "CurrencyCode": "USD",
+                            "DecimalPlaces": 2
+                        },
+                        "ServiceTax": {
+                            "Amount": "0.00",
+                            "CurrencyCode": "USD",
+                            "DecimalPlaces": 2
+                        },
+                        "Tax": {
+                            "Amount": "255.85",
+                            "CurrencyCode": "USD",
+                            "DecimalPlaces": 2
+                        },
+                        "TotalFare": {
+                            "Amount": "443.05",
+                            "CurrencyCode": "USD",
+                            "DecimalPlaces": 2
+                        }
+                    },
+                    "ReservationItems": [
+                        {
+                            "ReservationItem": {
+                                "AirEquipmentType": "",
+                                "AirlinePNR": "AHFYWJ",
+                                "ArrivalAirportLocationCode": "STN",
+                                "ArrivalDateTime": "2025-12-14T12:50:00",
+                                "ArrivalTerminal": "",
+                                "Baggage": "10 KG",
+                                "CabinClassText": "BASIC",
+                                "DepartureAirportLocationCode": "RTM",
+                                "DepartureDateTime": "2025-12-14T12:55:00",
+                                "DepartureTerminal": "",
+                                "FlightNumber": "6993",
+                                "ItemRPH": 1,
+                                "JourneyDuration": "55",
+                                "MarketingAirlineCode": "HV",
+                                "NumberInParty": 1,
+                                "OperatingAirlineCode": "HV",
+                                "ResBookDesigCode": "S",
+                                "StopQuantity": 0
+                            }
+                        }
+                    ],
+                    "TripDetailsPTC_FareBreakdowns": [
+                        {
+                            "TripDetailsPTC_FareBreakdown": {
+                                "PassengerTypeQuantity": {
+                                    "Code": "ADT",
+                                    "Quantity": 2
+                                },
+                                "TripDetailsPassengerFare": {
+                                    "EquiFare": {
+                                        "Amount": "18.60",
+                                        "CurrencyCode": "USD",
+                                        "DecimalPlaces": 2
+                                    },
+                                    "ServiceTax": {
+                                        "Amount": "0.00",
+                                        "CurrencyCode": "USD",
+                                        "DecimalPlaces": 2
+                                    },
+                                    "Tax": {
+                                        "Amount": "87.67",
+                                        "CurrencyCode": "USD",
+                                        "DecimalPlaces": 2
+                                    },
+                                    "TotalFare": {
+                                        "Amount": "106.27",
+                                        "CurrencyCode": "USD",
+                                        "DecimalPlaces": 2
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "TripDetailsPTC_FareBreakdown": {
+                                "PassengerTypeQuantity": {
+                                    "Code": "CHD",
+                                    "Quantity": 1
+                                },
+                                "TripDetailsPassengerFare": {
+                                    "EquiFare": {
+                                        "Amount": "18.60",
+                                        "CurrencyCode": "USD",
+                                        "DecimalPlaces": 2
+                                    },
+                                    "ServiceTax": {
+                                        "Amount": "0.00",
+                                        "CurrencyCode": "USD",
+                                        "DecimalPlaces": 2
+                                    },
+                                    "Tax": {
+                                        "Amount": "80.51",
+                                        "CurrencyCode": "USD",
+                                        "DecimalPlaces": 2
+                                    },
+                                    "TotalFare": {
+                                        "Amount": "99.12",
+                                        "CurrencyCode": "USD",
+                                        "DecimalPlaces": 2
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "TripDetailsPTC_FareBreakdown": {
+                                "PassengerTypeQuantity": {
+                                    "Code": "INF",
+                                    "Quantity": 1
+                                },
+                                "TripDetailsPassengerFare": {
+                                    "EquiFare": {
+                                        "Amount": "35.40",
+                                        "CurrencyCode": "USD",
+                                        "DecimalPlaces": 2
+                                    },
+                                    "ServiceTax": {
+                                        "Amount": "0.00",
+                                        "CurrencyCode": "USD",
+                                        "DecimalPlaces": 2
+                                    },
+                                    "Tax": {
+                                        "Amount": "0.00",
+                                        "CurrencyCode": "USD",
+                                        "DecimalPlaces": 2
+                                    },
+                                    "TotalFare": {
+                                        "Amount": "35.40",
+                                        "CurrencyCode": "USD",
+                                        "DecimalPlaces": 2
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "ExtraServices": {
+                        "Services": [
+                            {
+                                "Service": {
+                                    "Behavior": "PER_PAX_OUTBOUND",
+                                    "CheckInType": "AIRPORT",
+                                    "Description": "1 bags - 20Kg ",
+                                    "FlightDesignator": "",
+                                    "IsMandatory": false,
+                                    "Relation": "",
+                                    "ServiceCost": {
+                                        "Amount": "46.77",
+                                        "CurrencyCode": "USD",
+                                        "DecimalPlaces": "2"
+                                    },
+                                    "ServiceId": "2",
+                                    "Type": "BAGGAGE"
+                                }
+                            },
+                            {
+                                "Service": {
+                                    "Behavior": "PER_PAX_OUTBOUND",
+                                    "CheckInType": "AIRPORT",
+                                    "Description": "1 bags - 25Kg ",
+                                    "FlightDesignator": "",
+                                    "IsMandatory": false,
+                                    "Relation": "",
+                                    "ServiceCost": {
+                                        "Amount": "49.22",
+                                        "CurrencyCode": "USD",
+                                        "DecimalPlaces": "2"
+                                    },
+                                    "ServiceId": "3",
+                                    "Type": "BAGGAGE"
+                                }
+                            }
+                        ]
+                    },
+                    "BookingNotes": []
+                },
+                "UniqueID": "TR81142025",
+                "Origin": "RTM",
+                "TicketStatus": "Ticketed"
+            }
+        }
+    }
+}

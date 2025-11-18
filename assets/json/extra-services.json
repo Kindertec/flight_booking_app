@@ -1,0 +1,105 @@
+{
+    "ExtraServicesResponse": {
+        "ExtraServicesResult": {
+            "success": true,
+            "ExtraServicesData": {
+                "DynamicBaggage": [
+                    {
+                        "Behavior": "PER_PAX_OUTBOUND",
+                        "IsMultiSelect": false,
+                        "Services": [
+                            [
+                                {
+                                    "ServiceId": "1",
+                                    "CheckInType": "AIRPORT",
+                                    "Description": "1 bags - 15Kg",
+                                    "FareDescription": "The charges are added while making the ticket",
+                                    "IsMandatory": false,
+                                    "MinimumQuantity": 0,
+                                    "MaximumQuantity": 3,
+                                    "ServiceCost": {
+                                        "CurrencyCode": "USD",
+                                        "Amount": "51.92",
+                                        "DecimalPlaces": "2"
+                                    }
+                                },
+                                {
+                                    "ServiceId": "2",
+                                    "CheckInType": "AIRPORT",
+                                    "Description": "1 bags - 20Kg",
+                                    "FareDescription": "The charges are added while making the ticket",
+                                    "IsMandatory": false,
+                                    "MinimumQuantity": 0,
+                                    "MaximumQuantity": 3,
+                                    "ServiceCost": {
+                                        "CurrencyCode": "USD",
+                                        "Amount": "56.76",
+                                        "DecimalPlaces": "2"
+                                    }
+                                },
+                                {
+                                    "ServiceId": "3",
+                                    "CheckInType": "AIRPORT",
+                                    "Description": "1 bags - 25Kg",
+                                    "FareDescription": "The charges are added while making the ticket",
+                                    "IsMandatory": false,
+                                    "MinimumQuantity": 0,
+                                    "MaximumQuantity": 3,
+                                    "ServiceCost": {
+                                        "CurrencyCode": "USD",
+                                        "Amount": "61.59",
+                                        "DecimalPlaces": "2"
+                                    }
+                                },
+                                {
+                                    "ServiceId": "4",
+                                    "CheckInType": "AIRPORT",
+                                    "Description": "1 bags - 30Kg",
+                                    "FareDescription": "The charges are added while making the ticket",
+                                    "IsMandatory": false,
+                                    "MinimumQuantity": 0,
+                                    "MaximumQuantity": 3,
+                                    "ServiceCost": {
+                                        "CurrencyCode": "USD",
+                                        "Amount": "76.07",
+                                        "DecimalPlaces": "2"
+                                    }
+                                },
+                                {
+                                    "ServiceId": "5",
+                                    "CheckInType": "AIRPORT",
+                                    "Description": "2 bags - 40Kg",
+                                    "FareDescription": "The charges are added while making the ticket",
+                                    "IsMandatory": false,
+                                    "MinimumQuantity": 0,
+                                    "MaximumQuantity": 3,
+                                    "ServiceCost": {
+                                        "CurrencyCode": "USD",
+                                        "Amount": "91.77",
+                                        "DecimalPlaces": "2"
+                                    }
+                                },
+                                {
+                                    "ServiceId": "6",
+                                    "CheckInType": "AIRPORT",
+                                    "Description": "2 bags - 50Kg",
+                                    "FareDescription": "The charges are added while making the ticket",
+                                    "IsMandatory": false,
+                                    "MinimumQuantity": 0,
+                                    "MaximumQuantity": 3,
+                                    "ServiceCost": {
+                                        "CurrencyCode": "USD",
+                                        "Amount": "119.54",
+                                        "DecimalPlaces": "2"
+                                    }
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                "DynamicMeal": [],
+                "DynamicSeat": []
+            }
+        }
+    }
+}

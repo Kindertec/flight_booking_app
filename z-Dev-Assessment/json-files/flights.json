@@ -1,0 +1,1065 @@
+{
+    "AirSearchResponse": {
+        "session_id": "MTc2MjQxNTI0NF8yMjgzMDE4",
+        "AirSearchResult": {
+            "FareItineraries": [
+                {
+                    "FareItinerary": {
+                        "DirectionInd": "OneWay",
+                        "AirItineraryFareInfo": {
+                            "DivideInPartyIndicator": "false",
+                            "FareSourceCode": "MW5qZXZlRnBrSXVTbURwdSsya3Y3RDc0ZlJRSndUTHB2cC9TRmE2KzdvU1Z3d2xEN2FnMWxpS3FzVjN4UmF4aWdxa3VObC9NazdGVTF5aTlRYTh5a0hqV1FDcDNacXp3ZWgzTGE0Z1FtQmIrMHQyN2svbW9yQytuR2tnVDNjdnJBY1ZncEhnM0tQNkZzcEJHZ2hDOVJnPT0=",
+                            "FareInfos": [],
+                            "FareType": "WebFare",
+                            "ResultIndex": "",
+                            "IsRefundable": "No",
+                            "ItinTotalFares": {
+                                "BaseFare": {
+                                    "Amount": "297.90",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                },
+                                "EquivFare": {
+                                    "Amount": "297.90",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                },
+                                "ServiceTax": {
+                                    "Amount": "0.00",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                },
+                                "TotalTax": {
+                                    "Amount": "259.96",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                },
+                                "TotalFare": {
+                                    "Amount": "557.86",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                }
+                            },
+                            "FareBreakdown": [
+                                {
+                                    "FareBasisCode": "",
+                                    "Baggage": [
+                                        "SB"
+                                    ],
+                                    "CabinBaggage": [
+                                        "SB"
+                                    ],
+                                    "PassengerFare": {
+                                        "BaseFare": {
+                                            "Amount": "175.45",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "EquivFare": {
+                                            "Amount": "175.45",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "ServiceTax": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Surcharges": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Taxes": [
+                                            {
+                                                "TaxCode": "TAX",
+                                                "Amount": "157.97",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            },
+                                            {
+                                                "TaxCode": "Tax2",
+                                                "Amount": "23.00",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            }
+                                        ],
+                                        "TotalFare": {
+                                            "Amount": "356.42",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        }
+                                    },
+                                    "PassengerTypeQuantity": {
+                                        "Code": "ADT",
+                                        "Quantity": 2
+                                    },
+                                    "PenaltyDetails": {
+                                        "Currency": "USD",
+                                        "RefundAllowed": false,
+                                        "RefundPenaltyAmount": "0.00",
+                                        "ChangeAllowed": false,
+                                        "ChangePenaltyAmount": "0.00"
+                                    }
+                                },
+                                {
+                                    "FareBasisCode": "",
+                                    "Baggage": [
+                                        "SB"
+                                    ],
+                                    "CabinBaggage": [
+                                        "SB"
+                                    ],
+                                    "PassengerFare": {
+                                        "BaseFare": {
+                                            "Amount": "87.72",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "EquivFare": {
+                                            "Amount": "87.72",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "ServiceTax": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Surcharges": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Taxes": [
+                                            {
+                                                "TaxCode": "TAX",
+                                                "Amount": "78.99",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            }
+                                        ],
+                                        "TotalFare": {
+                                            "Amount": "166.71",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        }
+                                    },
+                                    "PassengerTypeQuantity": {
+                                        "Code": "CHD",
+                                        "Quantity": 1
+                                    },
+                                    "PenaltyDetails": {
+                                        "Currency": "USD",
+                                        "RefundAllowed": false,
+                                        "RefundPenaltyAmount": "0.00",
+                                        "ChangeAllowed": false,
+                                        "ChangePenaltyAmount": "0.00"
+                                    }
+                                },
+                                {
+                                    "FareBasisCode": "",
+                                    "Baggage": [
+                                        "SB"
+                                    ],
+                                    "CabinBaggage": [
+                                        "SB"
+                                    ],
+                                    "PassengerFare": {
+                                        "BaseFare": {
+                                            "Amount": "34.73",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "EquivFare": {
+                                            "Amount": "34.73",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "ServiceTax": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Surcharges": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Taxes": [
+                                            {
+                                                "TaxCode": null,
+                                                "Amount": "0.00",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            }
+                                        ],
+                                        "TotalFare": {
+                                            "Amount": "34.73",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        }
+                                    },
+                                    "PassengerTypeQuantity": {
+                                        "Code": "INF",
+                                        "Quantity": 1
+                                    },
+                                    "PenaltyDetails": {
+                                        "Currency": "USD",
+                                        "RefundAllowed": false,
+                                        "RefundPenaltyAmount": "0.00",
+                                        "ChangeAllowed": false,
+                                        "ChangePenaltyAmount": "0.00"
+                                    }
+                                }
+                            ],
+                            "SplitItinerary": false
+                        },
+                        "OriginDestinationOptions": [
+                            {
+                                "OriginDestinationOption": [
+                                    {
+                                        "FlightSegment": {
+                                            "ArrivalAirportLocationCode": "STN",
+                                            "ArrivalDateTime": "2025-12-21T12:50:00",
+                                            "CabinClassCode": "Y",
+                                            "CabinClassText": "BASIC",
+                                            "DepartureAirportLocationCode": "RTM",
+                                            "DepartureDateTime": "2025-12-21T12:55:00",
+                                            "Eticket": true,
+                                            "JourneyDuration": "55",
+                                            "FlightNumber": "6993",
+                                            "MarketingAirlineCode": "HV",
+                                            "MarketingAirlineName": "Transavia Airlines",
+                                            "MarriageGroup": "",
+                                            "MealCode": "",
+                                            "OperatingAirline": {
+                                                "Code": "HV",
+                                                "Name": "Transavia Airlines",
+                                                "Equipment": "",
+                                                "FlightNumber": ""
+                                            }
+                                        },
+                                        "ResBookDesigCode": "",
+                                        "ResBookDesigText": "",
+                                        "SeatsRemaining": {
+                                            "BelowMinimum": false,
+                                            "Number": 4
+                                        },
+                                        "StopQuantity": 0,
+                                        "StopQuantityInfo": {
+                                            "ArrivalDateTime": "",
+                                            "DepartureDateTime": "",
+                                            "Duration": "",
+                                            "LocationCode": ""
+                                        }
+                                    }
+                                ],
+                                "TotalStops": 0
+                            }
+                        ],
+                        "IsPassportMandatory": null,
+                        "SequenceNumber": "",
+                        "TicketType": "eTicket",
+                        "ValidatingAirlineCode": "HV"
+                    }
+                },
+                {
+                    "FareItinerary": {
+                        "DirectionInd": "OneWay",
+                        "AirItineraryFareInfo": {
+                            "DivideInPartyIndicator": "false",
+                            "FareSourceCode": "SHhVMGRHajQ1ZGxDVGhEU2xEL2gvS1p2RmYrMndCelNQRTlrZHNTbnNGencwb2MvSmoyRUttYnFUb2c2OUl5aTZtK2VxQ09vb3ZXVFBpV3FGa1l5cm1QUE9pZmIwSjZYTFdOdVE0ZDlUSThGZmg5clZpRWdOTlNzMHJ2N2tac0Y2SUZtR3R2RXhHZlVrUlVNMU1VaTFnPT0=",
+                            "FareInfos": [],
+                            "FareType": "WebFare",
+                            "ResultIndex": "",
+                            "IsRefundable": "No",
+                            "ItinTotalFares": {
+                                "BaseFare": {
+                                    "Amount": "297.90",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                },
+                                "EquivFare": {
+                                    "Amount": "297.90",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                },
+                                "ServiceTax": {
+                                    "Amount": "0.00",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                },
+                                "TotalTax": {
+                                    "Amount": "296.19",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                },
+                                "TotalFare": {
+                                    "Amount": "594.09",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                }
+                            },
+                            "FareBreakdown": [
+                                {
+                                    "FareBasisCode": "",
+                                    "Baggage": [
+                                        "SB"
+                                    ],
+                                    "CabinBaggage": [
+                                        "SB"
+                                    ],
+                                    "PassengerFare": {
+                                        "BaseFare": {
+                                            "Amount": "175.45",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "EquivFare": {
+                                            "Amount": "175.45",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "ServiceTax": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Surcharges": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Taxes": [
+                                            {
+                                                "TaxCode": "TAX",
+                                                "Amount": "157.97",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            },
+                                            {
+                                                "TaxCode": "Flex Fee",
+                                                "Amount": "23.15",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            },
+                                            {
+                                                "TaxCode": "Tax2",
+                                                "Amount": "24.50",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            }
+                                        ],
+                                        "TotalFare": {
+                                            "Amount": "381.07",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        }
+                                    },
+                                    "PassengerTypeQuantity": {
+                                        "Code": "ADT",
+                                        "Quantity": 2
+                                    },
+                                    "PenaltyDetails": {
+                                        "Currency": "USD",
+                                        "RefundAllowed": false,
+                                        "RefundPenaltyAmount": "0.00",
+                                        "ChangeAllowed": false,
+                                        "ChangePenaltyAmount": "0.00"
+                                    }
+                                },
+                                {
+                                    "FareBasisCode": "",
+                                    "Baggage": [
+                                        "SB"
+                                    ],
+                                    "CabinBaggage": [
+                                        "SB"
+                                    ],
+                                    "PassengerFare": {
+                                        "BaseFare": {
+                                            "Amount": "87.72",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "EquivFare": {
+                                            "Amount": "87.72",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "ServiceTax": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Surcharges": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Taxes": [
+                                            {
+                                                "TaxCode": "TAX",
+                                                "Amount": "78.99",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            },
+                                            {
+                                                "TaxCode": "Flex Fee",
+                                                "Amount": "11.58",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            }
+                                        ],
+                                        "TotalFare": {
+                                            "Amount": "178.29",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        }
+                                    },
+                                    "PassengerTypeQuantity": {
+                                        "Code": "CHD",
+                                        "Quantity": 1
+                                    },
+                                    "PenaltyDetails": {
+                                        "Currency": "USD",
+                                        "RefundAllowed": false,
+                                        "RefundPenaltyAmount": "0.00",
+                                        "ChangeAllowed": false,
+                                        "ChangePenaltyAmount": "0.00"
+                                    }
+                                },
+                                {
+                                    "FareBasisCode": "",
+                                    "Baggage": [
+                                        "SB"
+                                    ],
+                                    "CabinBaggage": [
+                                        "SB"
+                                    ],
+                                    "PassengerFare": {
+                                        "BaseFare": {
+                                            "Amount": "34.73",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "EquivFare": {
+                                            "Amount": "34.73",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "ServiceTax": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Surcharges": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Taxes": [
+                                            {
+                                                "TaxCode": null,
+                                                "Amount": "0.00",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            }
+                                        ],
+                                        "TotalFare": {
+                                            "Amount": "34.73",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        }
+                                    },
+                                    "PassengerTypeQuantity": {
+                                        "Code": "INF",
+                                        "Quantity": 1
+                                    },
+                                    "PenaltyDetails": {
+                                        "Currency": "USD",
+                                        "RefundAllowed": false,
+                                        "RefundPenaltyAmount": "0.00",
+                                        "ChangeAllowed": false,
+                                        "ChangePenaltyAmount": "0.00"
+                                    }
+                                }
+                            ],
+                            "SplitItinerary": false
+                        },
+                        "OriginDestinationOptions": [
+                            {
+                                "OriginDestinationOption": [
+                                    {
+                                        "FlightSegment": {
+                                            "ArrivalAirportLocationCode": "STN",
+                                            "ArrivalDateTime": "2025-12-21T12:50:00",
+                                            "CabinClassCode": "Y",
+                                            "CabinClassText": "BASIC FLEX",
+                                            "DepartureAirportLocationCode": "RTM",
+                                            "DepartureDateTime": "2025-12-21T12:55:00",
+                                            "Eticket": true,
+                                            "JourneyDuration": "55",
+                                            "FlightNumber": "6993",
+                                            "MarketingAirlineCode": "HV",
+                                            "MarketingAirlineName": "Transavia Airlines",
+                                            "MarriageGroup": "",
+                                            "MealCode": "",
+                                            "OperatingAirline": {
+                                                "Code": "HV",
+                                                "Name": "Transavia Airlines",
+                                                "Equipment": "",
+                                                "FlightNumber": ""
+                                            }
+                                        },
+                                        "ResBookDesigCode": "",
+                                        "ResBookDesigText": "",
+                                        "SeatsRemaining": {
+                                            "BelowMinimum": false,
+                                            "Number": 4
+                                        },
+                                        "StopQuantity": 0,
+                                        "StopQuantityInfo": {
+                                            "ArrivalDateTime": "",
+                                            "DepartureDateTime": "",
+                                            "Duration": "",
+                                            "LocationCode": ""
+                                        }
+                                    }
+                                ],
+                                "TotalStops": 0
+                            }
+                        ],
+                        "IsPassportMandatory": null,
+                        "SequenceNumber": "",
+                        "TicketType": "eTicket",
+                        "ValidatingAirlineCode": "HV"
+                    }
+                },
+                {
+                    "FareItinerary": {
+                        "DirectionInd": "OneWay",
+                        "AirItineraryFareInfo": {
+                            "DivideInPartyIndicator": "false",
+                            "FareSourceCode": "VFB5U09pdUdsOHh3QlFrK2pYcEEzb29taFdUc09STkp1VWNZQnY5aXREeVpJenA3Sk1rOUtMaFk0cDJ0VXBEN0ZUMTFQS2VlTDZYMDZYN091K2ltaytLWlNydWwzamJkUU4xMHF1Yjg2azR0aUVyRjEwUG5mOWFlMC9WazZ0ZERMQ0pxNkZ4Wkc4NmdscEZpemh4Z0VBPT0=",
+                            "FareInfos": [],
+                            "FareType": "WebFare",
+                            "ResultIndex": "",
+                            "IsRefundable": "No",
+                            "ItinTotalFares": {
+                                "BaseFare": {
+                                    "Amount": "471.56",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                },
+                                "EquivFare": {
+                                    "Amount": "471.56",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                },
+                                "ServiceTax": {
+                                    "Amount": "0.00",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                },
+                                "TotalTax": {
+                                    "Amount": "267.43",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                },
+                                "TotalFare": {
+                                    "Amount": "738.98",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                }
+                            },
+                            "FareBreakdown": [
+                                {
+                                    "FareBasisCode": "",
+                                    "Baggage": [
+                                        "SB"
+                                    ],
+                                    "CabinBaggage": [
+                                        "SB"
+                                    ],
+                                    "PassengerFare": {
+                                        "BaseFare": {
+                                            "Amount": "291.22",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "EquivFare": {
+                                            "Amount": "291.22",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "ServiceTax": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Surcharges": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Taxes": [
+                                            {
+                                                "TaxCode": "TAX",
+                                                "Amount": "157.97",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            },
+                                            {
+                                                "TaxCode": "Tax2",
+                                                "Amount": "30.47",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            }
+                                        ],
+                                        "TotalFare": {
+                                            "Amount": "479.66",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        }
+                                    },
+                                    "PassengerTypeQuantity": {
+                                        "Code": "ADT",
+                                        "Quantity": 2
+                                    },
+                                    "PenaltyDetails": {
+                                        "Currency": "USD",
+                                        "RefundAllowed": false,
+                                        "RefundPenaltyAmount": "0.00",
+                                        "ChangeAllowed": false,
+                                        "ChangePenaltyAmount": "0.00"
+                                    }
+                                },
+                                {
+                                    "FareBasisCode": "",
+                                    "Baggage": [
+                                        "SB"
+                                    ],
+                                    "CabinBaggage": [
+                                        "SB"
+                                    ],
+                                    "PassengerFare": {
+                                        "BaseFare": {
+                                            "Amount": "145.61",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "EquivFare": {
+                                            "Amount": "145.61",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "ServiceTax": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Surcharges": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Taxes": [
+                                            {
+                                                "TaxCode": "TAX",
+                                                "Amount": "78.99",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            }
+                                        ],
+                                        "TotalFare": {
+                                            "Amount": "224.59",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        }
+                                    },
+                                    "PassengerTypeQuantity": {
+                                        "Code": "CHD",
+                                        "Quantity": 1
+                                    },
+                                    "PenaltyDetails": {
+                                        "Currency": "USD",
+                                        "RefundAllowed": false,
+                                        "RefundPenaltyAmount": "0.00",
+                                        "ChangeAllowed": false,
+                                        "ChangePenaltyAmount": "0.00"
+                                    }
+                                },
+                                {
+                                    "FareBasisCode": "",
+                                    "Baggage": [
+                                        "SB"
+                                    ],
+                                    "CabinBaggage": [
+                                        "SB"
+                                    ],
+                                    "PassengerFare": {
+                                        "BaseFare": {
+                                            "Amount": "34.73",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "EquivFare": {
+                                            "Amount": "34.73",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "ServiceTax": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Surcharges": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Taxes": [
+                                            {
+                                                "TaxCode": null,
+                                                "Amount": "0.00",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            }
+                                        ],
+                                        "TotalFare": {
+                                            "Amount": "34.73",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        }
+                                    },
+                                    "PassengerTypeQuantity": {
+                                        "Code": "INF",
+                                        "Quantity": 1
+                                    },
+                                    "PenaltyDetails": {
+                                        "Currency": "USD",
+                                        "RefundAllowed": false,
+                                        "RefundPenaltyAmount": "0.00",
+                                        "ChangeAllowed": false,
+                                        "ChangePenaltyAmount": "0.00"
+                                    }
+                                }
+                            ],
+                            "SplitItinerary": false
+                        },
+                        "OriginDestinationOptions": [
+                            {
+                                "OriginDestinationOption": [
+                                    {
+                                        "FlightSegment": {
+                                            "ArrivalAirportLocationCode": "STN",
+                                            "ArrivalDateTime": "2025-12-21T12:50:00",
+                                            "CabinClassCode": "Y",
+                                            "CabinClassText": "PLUS",
+                                            "DepartureAirportLocationCode": "RTM",
+                                            "DepartureDateTime": "2025-12-21T12:55:00",
+                                            "Eticket": true,
+                                            "JourneyDuration": "55",
+                                            "FlightNumber": "6993",
+                                            "MarketingAirlineCode": "HV",
+                                            "MarketingAirlineName": "Transavia Airlines",
+                                            "MarriageGroup": "",
+                                            "MealCode": "",
+                                            "OperatingAirline": {
+                                                "Code": "HV",
+                                                "Name": "Transavia Airlines",
+                                                "Equipment": "",
+                                                "FlightNumber": ""
+                                            }
+                                        },
+                                        "ResBookDesigCode": "",
+                                        "ResBookDesigText": "",
+                                        "SeatsRemaining": {
+                                            "BelowMinimum": false,
+                                            "Number": 4
+                                        },
+                                        "StopQuantity": 0,
+                                        "StopQuantityInfo": {
+                                            "ArrivalDateTime": "",
+                                            "DepartureDateTime": "",
+                                            "Duration": "",
+                                            "LocationCode": ""
+                                        }
+                                    }
+                                ],
+                                "TotalStops": 0
+                            }
+                        ],
+                        "IsPassportMandatory": null,
+                        "SequenceNumber": "",
+                        "TicketType": "eTicket",
+                        "ValidatingAirlineCode": "HV"
+                    }
+                },
+                {
+                    "FareItinerary": {
+                        "DirectionInd": "OneWay",
+                        "AirItineraryFareInfo": {
+                            "DivideInPartyIndicator": "false",
+                            "FareSourceCode": "NUlIakJXSy8xM1dVT21OTnM0QkhuTVJjZEllUW1IQWNmSm5mTG83Vng3S1FwZUdmNlRESlRpSThKVkJzTGNZT0loYmZJK2VjdTZRWUdDNnBHZ1RuSEtDbmx3VWhsOXNpdFl2eSsvQXpnSElVc1lVVml6anRxdXVFcGppQm01SDJVeWlBMnY0UUVOVXNtRWV3QU1ZbHJRPT0=",
+                            "FareInfos": [],
+                            "FareType": "WebFare",
+                            "ResultIndex": "",
+                            "IsRefundable": "No",
+                            "ItinTotalFares": {
+                                "BaseFare": {
+                                    "Amount": "593.10",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                },
+                                "EquivFare": {
+                                    "Amount": "593.10",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                },
+                                "ServiceTax": {
+                                    "Amount": "0.00",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                },
+                                "TotalTax": {
+                                    "Amount": "272.66",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                },
+                                "TotalFare": {
+                                    "Amount": "865.75",
+                                    "CurrencyCode": "USD",
+                                    "DecimalPlaces": "2"
+                                }
+                            },
+                            "FareBreakdown": [
+                                {
+                                    "FareBasisCode": "",
+                                    "Baggage": [
+                                        "SB"
+                                    ],
+                                    "CabinBaggage": [
+                                        "SB"
+                                    ],
+                                    "PassengerFare": {
+                                        "BaseFare": {
+                                            "Amount": "372.24",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "EquivFare": {
+                                            "Amount": "372.24",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "ServiceTax": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Surcharges": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Taxes": [
+                                            {
+                                                "TaxCode": "TAX",
+                                                "Amount": "157.97",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            },
+                                            {
+                                                "TaxCode": "Tax2",
+                                                "Amount": "35.70",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            }
+                                        ],
+                                        "TotalFare": {
+                                            "Amount": "565.92",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        }
+                                    },
+                                    "PassengerTypeQuantity": {
+                                        "Code": "ADT",
+                                        "Quantity": 2
+                                    },
+                                    "PenaltyDetails": {
+                                        "Currency": "USD",
+                                        "RefundAllowed": false,
+                                        "RefundPenaltyAmount": "0.00",
+                                        "ChangeAllowed": false,
+                                        "ChangePenaltyAmount": "0.00"
+                                    }
+                                },
+                                {
+                                    "FareBasisCode": "",
+                                    "Baggage": [
+                                        "SB"
+                                    ],
+                                    "CabinBaggage": [
+                                        "SB"
+                                    ],
+                                    "PassengerFare": {
+                                        "BaseFare": {
+                                            "Amount": "186.12",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "EquivFare": {
+                                            "Amount": "186.12",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "ServiceTax": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Surcharges": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Taxes": [
+                                            {
+                                                "TaxCode": "TAX",
+                                                "Amount": "78.99",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            }
+                                        ],
+                                        "TotalFare": {
+                                            "Amount": "265.11",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        }
+                                    },
+                                    "PassengerTypeQuantity": {
+                                        "Code": "CHD",
+                                        "Quantity": 1
+                                    },
+                                    "PenaltyDetails": {
+                                        "Currency": "USD",
+                                        "RefundAllowed": false,
+                                        "RefundPenaltyAmount": "0.00",
+                                        "ChangeAllowed": false,
+                                        "ChangePenaltyAmount": "0.00"
+                                    }
+                                },
+                                {
+                                    "FareBasisCode": "",
+                                    "Baggage": [
+                                        "SB"
+                                    ],
+                                    "CabinBaggage": [
+                                        "SB"
+                                    ],
+                                    "PassengerFare": {
+                                        "BaseFare": {
+                                            "Amount": "34.73",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "EquivFare": {
+                                            "Amount": "34.73",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "ServiceTax": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Surcharges": {
+                                            "Amount": "0.00",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        },
+                                        "Taxes": [
+                                            {
+                                                "TaxCode": null,
+                                                "Amount": "0.00",
+                                                "CurrencyCode": "USD",
+                                                "DecimalPlaces": "2"
+                                            }
+                                        ],
+                                        "TotalFare": {
+                                            "Amount": "34.73",
+                                            "CurrencyCode": "USD",
+                                            "DecimalPlaces": "2"
+                                        }
+                                    },
+                                    "PassengerTypeQuantity": {
+                                        "Code": "INF",
+                                        "Quantity": 1
+                                    },
+                                    "PenaltyDetails": {
+                                        "Currency": "USD",
+                                        "RefundAllowed": false,
+                                        "RefundPenaltyAmount": "0.00",
+                                        "ChangeAllowed": false,
+                                        "ChangePenaltyAmount": "0.00"
+                                    }
+                                }
+                            ],
+                            "SplitItinerary": false
+                        },
+                        "OriginDestinationOptions": [
+                            {
+                                "OriginDestinationOption": [
+                                    {
+                                        "FlightSegment": {
+                                            "ArrivalAirportLocationCode": "STN",
+                                            "ArrivalDateTime": "2025-12-21T12:50:00",
+                                            "CabinClassCode": "Y",
+                                            "CabinClassText": "MAX",
+                                            "DepartureAirportLocationCode": "RTM",
+                                            "DepartureDateTime": "2025-12-21T12:55:00",
+                                            "Eticket": true,
+                                            "JourneyDuration": "55",
+                                            "FlightNumber": "6993",
+                                            "MarketingAirlineCode": "HV",
+                                            "MarketingAirlineName": "Transavia Airlines",
+                                            "MarriageGroup": "",
+                                            "MealCode": "",
+                                            "OperatingAirline": {
+                                                "Code": "HV",
+                                                "Name": "Transavia Airlines",
+                                                "Equipment": "",
+                                                "FlightNumber": ""
+                                            }
+                                        },
+                                        "ResBookDesigCode": "",
+                                        "ResBookDesigText": "",
+                                        "SeatsRemaining": {
+                                            "BelowMinimum": false,
+                                            "Number": 4
+                                        },
+                                        "StopQuantity": 0,
+                                        "StopQuantityInfo": {
+                                            "ArrivalDateTime": "",
+                                            "DepartureDateTime": "",
+                                            "Duration": "",
+                                            "LocationCode": ""
+                                        }
+                                    }
+                                ],
+                                "TotalStops": 0
+                            }
+                        ],
+                        "IsPassportMandatory": null,
+                        "SequenceNumber": "",
+                        "TicketType": "eTicket",
+                        "ValidatingAirlineCode": "HV"
+                    }
+                }
+            ]
+        }
+    }
+}

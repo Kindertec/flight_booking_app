@@ -1,0 +1,48 @@
+name: flight_booking_app
+description: A Flutter flight booking application with clean architecture and BLoC
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management - BLoC
+  flutter_bloc: ^9.1.1
+  equatable: ^2.0.5
+
+  # Networking
+  http: ^1.1.0
+
+  # Image Caching
+  cached_network_image: ^3.3.0
+
+  # Date Formatting
+  intl: ^0.20.2
+
+  # UI Components
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  
+  # Testing BLoC
+  bloc_test: ^10.0.0
+  mocktail: ^1.0.1
+
+flutter:
+  uses-material-design: true
+
+  # Add all JSON files to assets
+  assets:
+    - assets/json/flights.json
+    - assets/json/airline-list.json
+    - assets/json/extra-services.json
+    - assets/json/trip-details.json

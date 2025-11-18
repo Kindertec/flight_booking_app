@@ -1,0 +1,38 @@
+###Hi Dev,###
+
+
+##Instructions##
+
+Using the 'json-files' folder, see if you can develop a mobile application(Dart/Flutter) utilizing the four json files. 
+NB: The 'flights.json is the primary endpoint which is the response from the POST REQUEST below :
+{ 
+    "user_id": "dev_api", 
+    "user_password": "**********", 
+    "access": "Test", 
+    "ip_address": "**.**.**.225", 
+    "requiredCurrency": "USD", 
+    "journeyType": "OneWay", 
+    "OriginDestinationInfo": 
+        [
+            { "departureDate": "2025-12-21", "airportOriginCode": "AMS", "airportDestinationCode": "LON" }
+        ], 
+    "class": "Economy", 
+    "adults": 2, 
+    "childs": 1, 
+    "infants": 1 
+}' 
+####hint####
+The other '.json' are there to help you find more details about each flight. 
+
+## Main Assesment criteria: ##
+Filter Functionality (Further filter the flights.json).
+A flight detail page. (eg With even the Flight logo)
+Look and feel of the application(attention to detail).
+Functionality of the application
+Code understanding (we might introduce a bug which you try and fix);
+
+## Bonus assesment ##
+Creativity & Thought process
+Security of the application
+Data Persistence
+
