@@ -129,8 +129,6 @@ BlocBuilder<FlightBloc, FlightState>(
 - `ResetFiltersEvent` - Clear all filters
 - `GetFlightDetailsEvent` - Get flight details
 
-See [BLOC_PATTERN.md](BLOC_PATTERN.md) for detailed documentation.
-
 ## 🏛️ Clean Architecture
 
 The app follows **Clean Architecture** principles with three distinct layers:
